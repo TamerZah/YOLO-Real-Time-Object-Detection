@@ -44,7 +44,7 @@ bh, bw : hight and width of the bounding box.
 c1..cn: the classes of my object.
 this is done with each cell, resulting with matrix of 3 dimensions while width and height of natrix are the number of cells in image and depth of matrix are the first 5 values plus number of classes. for example if image divided to 4 by 4 and 2 classes the matrix will look as below
 
-![matrix dimentions](https://github.com/TamerZah/YOLO-Real-Time-Object-Detection/images/matrix-dimentions.jpg)
+![matrix dimentions](https://TamerZah.github.com/YOLO-Real-Time-Object-Detection/images/matrix-dimentions.jpg)
 
 
 3- Intersection over union (IOU): 
