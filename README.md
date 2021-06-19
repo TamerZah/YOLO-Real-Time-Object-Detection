@@ -3,13 +3,13 @@
 ## Content:
 
 * Demo
-* YOLO defention
+* YOLO definition
 * Other algorithms before YOLO
 * YOLO features
 * How YOLO Works
 
 ## Demo:
-
+Video link : [youtube video](https://youtu.be/nWiEWk9BGg4)
 
 ## YOLO definition:
 YOLO stands for you only look once it is a state of the art object detection algorithm that detects and recognizes various objects and locating them using a bounding box.
