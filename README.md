@@ -9,7 +9,7 @@
 * How YOLO Works
 
 ## Demo:
-Video link : [youtube video](https://www.youtube.com/watch?v=bJ8WOxt_NEo&t=1s)
+Video link : <a href="https://www.youtube.com/watch?v=bJ8WOxt_NEo&t=1s" target="_blank">youtube video</a>
 
 ## YOLO definition:
 YOLO stands for you only look once it is a state of the art object detection algorithm that detects and recognizes various objects and locating them using a bounding box.
